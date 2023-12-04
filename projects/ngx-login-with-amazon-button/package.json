@@ -19,8 +19,8 @@
     "amazon"
   ],
   "peerDependencies": {
-    "@angular/common": "^8.2.4",
-    "@angular/core": "^8.2.4",
+    "@angular/common": "^15.1.0",
+    "@angular/core": "^15.1.0",
     "@types/login-with-amazon-sdk-browser": "^1.0.0"
   }
 }
